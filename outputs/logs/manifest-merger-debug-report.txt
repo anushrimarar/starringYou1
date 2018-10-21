@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5b01a3c7bb16ec51d905b6a42c86a5c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cbee2f6c71aed37397d23c086508f228\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\291bc1200cbd8501b0338943b24e0f29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\264712538e6386ae5d1b4ccbe152c9ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\92b453cd7b28a3db6cd12244ff1bc6ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9cf8d42b2b371c2eeafde22a3509eb4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\82567bda4cba5a341b02f3de9f7878ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2b674e1e5f9f0dfe00ac1d23ff7c4a4e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dd26cd3d955997cb4e79a276ff760fd8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8053ab2ef927eedf978e7be02683f59e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\467bf69335c3b152c20ddada8b8902c5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\71230be0a31b69f1b76f559d2dbf5c67\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:5:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cbee2f6c71aed37397d23c086508f228\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cbee2f6c71aed37397d23c086508f228\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.anush.staringyoulogin1.MainActivity
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.anush.staringyoulogin1.InsidePage
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:19:9-48
+	android:name
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:19:19-45
+activity#com.example.anush.staringyoulogin1.Page1
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:20:9-43
+	android:name
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:20:19-40
+activity#com.example.anush.staringyoulogin1.Page2
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:21:9-43
+	android:name
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:21:19-40
+activity#com.example.anush.staringyoulogin1.Page3
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:22:9-43
+	android:name
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:22:19-40
+activity#com.example.anush.staringyoulogin1.Page4
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:23:9-43
+	android:name
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:23:19-40
+activity#com.example.anush.staringyoulogin1.Page5
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:24:9-43
+	android:name
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:24:19-40
+activity#com.example.anush.staringyoulogin1.Page6
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:25:9-43
+	android:name
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:25:19-40
+activity#com.example.anush.staringyoulogin1.Page7
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:26:9-43
+	android:name
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:26:19-40
+activity#com.example.anush.staringyoulogin1.Page8
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:27:9-43
+	android:name
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:27:19-40
+activity#com.example.anush.staringyoulogin1.Page9
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:28:9-43
+	android:name
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:28:19-40
+activity#com.example.anush.staringyoulogin1.Page10
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:29:9-44
+	android:name
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:29:19-41
+activity#com.example.anush.staringyoulogin1.Page11
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:30:19-41
+activity#com.example.anush.staringyoulogin1.Page12
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:31:9-44
+	android:name
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:31:19-41
+activity#com.example.anush.staringyoulogin1.Page13
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:32:9-44
+	android:name
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:32:19-41
+activity#com.example.anush.staringyoulogin1.Page14
+ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:33:9-53
+	android:name
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml:33:19-41
+uses-sdk
+INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5b01a3c7bb16ec51d905b6a42c86a5c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5b01a3c7bb16ec51d905b6a42c86a5c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cbee2f6c71aed37397d23c086508f228\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cbee2f6c71aed37397d23c086508f228\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\291bc1200cbd8501b0338943b24e0f29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\291bc1200cbd8501b0338943b24e0f29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\264712538e6386ae5d1b4ccbe152c9ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\264712538e6386ae5d1b4ccbe152c9ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\92b453cd7b28a3db6cd12244ff1bc6ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\92b453cd7b28a3db6cd12244ff1bc6ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9cf8d42b2b371c2eeafde22a3509eb4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9cf8d42b2b371c2eeafde22a3509eb4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\82567bda4cba5a341b02f3de9f7878ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\82567bda4cba5a341b02f3de9f7878ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2b674e1e5f9f0dfe00ac1d23ff7c4a4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2b674e1e5f9f0dfe00ac1d23ff7c4a4e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dd26cd3d955997cb4e79a276ff760fd8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dd26cd3d955997cb4e79a276ff760fd8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8053ab2ef927eedf978e7be02683f59e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8053ab2ef927eedf978e7be02683f59e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\467bf69335c3b152c20ddada8b8902c5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\467bf69335c3b152c20ddada8b8902c5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\71230be0a31b69f1b76f559d2dbf5c67\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\anush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\71230be0a31b69f1b76f559d2dbf5c67\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anush\AndroidStudioProjects\staringYouLogin1\app\src\main\AndroidManifest.xml

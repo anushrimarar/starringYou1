@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">staringYouLogin1</string>
+    <string name="email">Email</string>
+    <string name="todo">TODO</string>
+    <string name="logo">logo</string>
+    <string name="password">Password</string>
+    <string name="email4">email4</string>
+    <string name="let_s_get_a_bit_of_background">Let\'s get a bit of background!</string>
+    <string name="login">Login</string>
+    <string name="new_sign_in_here">New? Sign in here</string>
+    <string name="some_background">Some Background</string>
+    <string name="name">Name:</string>
+    <string name="language_preference">Language Preference:</string>
+    <string name="mandarin">Mandarin</string>
+    <string name="hindi">Hindi</string>
+    <string name="spanish">Spanish</string>
+    <string name="next">Next</string>
+    <string name="your_name">Your name</string>
+    <string name="some_background_1">Some Background 1</string>
+
+</resources>
